@@ -3,3 +3,48 @@
 2020-10-08T11:48:41-0400 [INFO    ] backups2datalad.py Syncing asset /sub-RAT123/sub-RAT123.nwb
 2020-10-08T11:48:42-0400 [INFO    ] backups2datalad.py Asset in dataset, and hash shows no modification; will not update
 2020-10-08T11:48:42-0400 [INFO    ] backups2datalad.py Commiting changes
+2020-10-08T11:48:42-0400 [INFO    ] backups2datalad.py Creating GitHub sibling for 000027
+2020-10-08T11:48:42-0400 [INFO    ] backups2datalad.py Pushing to sibling
+2020-10-08T11:48:42-0400 [INFO    ] datalad.core.distributed.push Determine push target
+2020-10-08T11:48:42-0400 [INFO    ] datalad.core.distributed.push Push refspecs
+2020-10-08T11:48:42-0400 [INFO    ] datalad.core.distributed.push Transfer data
+2020-10-08T11:48:42-0400 [INFO    ] datalad.core.distributed.push Update availability information
+2020-10-08T11:48:44-0400 [INFO    ] datalad.gitrepo Start enumerating objects
+2020-10-08T11:48:44-0400 [INFO    ] datalad.gitrepo Finished enumerating objects
+2020-10-08T11:48:44-0400 [INFO    ] datalad.gitrepo Start counting objects
+2020-10-08T11:48:44-0400 [INFO    ] datalad.gitrepo Counting objects:  10% (1/10)
+2020-10-08T11:48:44-0400 [INFO    ] datalad.gitrepo Counting objects:  20% (2/10)
+2020-10-08T11:48:44-0400 [INFO    ] datalad.gitrepo Counting objects:  30% (3/10)
+2020-10-08T11:48:44-0400 [INFO    ] datalad.gitrepo Counting objects:  40% (4/10)
+2020-10-08T11:48:44-0400 [INFO    ] datalad.gitrepo Counting objects:  50% (5/10)
+2020-10-08T11:48:44-0400 [INFO    ] datalad.gitrepo Counting objects:  60% (6/10)
+2020-10-08T11:48:44-0400 [INFO    ] datalad.gitrepo Counting objects:  70% (7/10)
+2020-10-08T11:48:44-0400 [INFO    ] datalad.gitrepo Counting objects:  80% (8/10)
+2020-10-08T11:48:44-0400 [INFO    ] datalad.gitrepo Counting objects:  90% (9/10)
+2020-10-08T11:48:44-0400 [INFO    ] datalad.gitrepo Counting objects: 100% (10/10)
+2020-10-08T11:48:44-0400 [INFO    ] datalad.gitrepo Counting objects: 100% (10/10), done.
+2020-10-08T11:48:44-0400 [INFO    ] datalad.gitrepo Finished counting objects
+2020-10-08T11:48:44-0400 [INFO    ] datalad.gitrepo Start compressing objects
+2020-10-08T11:48:44-0400 [INFO    ] datalad.gitrepo Compressing objects:  20% (1/5)
+2020-10-08T11:48:44-0400 [INFO    ] datalad.gitrepo Compressing objects:  40% (2/5)
+2020-10-08T11:48:44-0400 [INFO    ] datalad.gitrepo Compressing objects:  60% (3/5)
+2020-10-08T11:48:44-0400 [INFO    ] datalad.gitrepo Compressing objects:  80% (4/5)
+2020-10-08T11:48:44-0400 [INFO    ] datalad.gitrepo Compressing objects: 100% (5/5)
+2020-10-08T11:48:44-0400 [INFO    ] datalad.gitrepo Compressing objects: 100% (5/5), done.
+2020-10-08T11:48:44-0400 [INFO    ] datalad.gitrepo Finished compressing objects
+2020-10-08T11:48:44-0400 [INFO    ] datalad.gitrepo Start writing objects
+2020-10-08T11:48:44-0400 [INFO    ] datalad.gitrepo Writing objects:  16% (1/6)
+2020-10-08T11:48:44-0400 [INFO    ] datalad.gitrepo Writing objects:  33% (2/6)
+2020-10-08T11:48:44-0400 [INFO    ] datalad.gitrepo Writing objects:  50% (3/6)
+2020-10-08T11:48:44-0400 [INFO    ] datalad.gitrepo Writing objects:  66% (4/6)
+2020-10-08T11:48:44-0400 [INFO    ] datalad.gitrepo Writing objects:  83% (5/6)
+2020-10-08T11:48:44-0400 [INFO    ] datalad.gitrepo Writing objects: 100% (6/6)
+2020-10-08T11:48:44-0400 [INFO    ] datalad.gitrepo Writing objects: 100% (6/6), 1.80 KiB | 1.80 MiB/s, done.
+2020-10-08T11:48:44-0400 [INFO    ] datalad.gitrepo Finished writing objects
+2020-10-08T11:48:44-0400 [INFO    ] datalad.gitrepo Start resolving deltas
+2020-10-08T11:48:44-0400 [INFO    ] datalad.gitrepo remote: Resolving deltas:   0% (0/2)
+2020-10-08T11:48:44-0400 [INFO    ] datalad.gitrepo remote: Resolving deltas:  50% (1/2)
+2020-10-08T11:48:44-0400 [INFO    ] datalad.gitrepo remote: Resolving deltas: 100% (2/2)
+2020-10-08T11:48:44-0400 [INFO    ] datalad.gitrepo remote: Resolving deltas: 100% (2/2), completed with 1 local object.
+2020-10-08T11:48:46-0400 [INFO    ] datalad.gitrepo Finished
+2020-10-08T11:48:46-0400 [INFO    ] datalad.core.distributed.push Finished push of Dataset(/mnt/backup/dandi/dandiarchive-replica/000027)
